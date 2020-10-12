@@ -6,7 +6,7 @@
 <p align="center">
   <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/ggonpereira/happy-next-level-week3" />
   <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/ggonpereira/happy-next-level-week3" />
-  <img alt="" src="https://img.shields.io/github/repo-size/ggonpereira/happy-next-level-week3" />
+  <img alt="GitHub Repo Size" src="https://img.shields.io/github/repo-size/ggonpereira/happy-next-level-week3" />
   <img alt="GitHub Issues" src="https://img.shields.io/github/issues/ggonpereira/happy-next-level-week3" />
   <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/ggonpereira/happy-next-level-week3" />
   <img alt="Github License" src="https://img.shields.io/github/license/ggonpereira/happy-next-level-week3" />
