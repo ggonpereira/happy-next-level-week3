@@ -1,5 +1,5 @@
 <h4 align="center">
-<img src="./public/images/logo.svg" width="190px" /><br>
+<img src="https://i.imgur.com/ukv1Quz.png" width="190px"  /><br>
  <b>Happy</b> 
 </h4>
 
