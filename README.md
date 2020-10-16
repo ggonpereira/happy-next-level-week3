@@ -3,8 +3,6 @@
  <h1 align="center">Happy, Next Level Week - Projeto #3 🤗</h1> 
 </h4>
 
----
-
 <p align="center">
   <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/ggonpereira/happy-next-level-week3" />
   <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/ggonpereira/happy-next-level-week3" />
@@ -12,7 +10,6 @@
   <img alt="Github License" src="https://img.shields.io/github/license/ggonpereira/happy-next-level-week3" />
   <img alt="Github Star" src="https://img.shields.io/github/stars/ggonpereira/happy-next-level-week3?style=social" />
   <img alt="Github Forks" src="https://img.shields.io/github/forks/ggonpereira/happy-next-level-week3?style=social" />
-
 </p>
 
 ---
@@ -25,21 +22,23 @@ O layout do site foi desenvolvido com muito carinho, contando com uma interface 
 
 ---
 
-<h2>Prévia 🖼</h2>
+<h2>Prévia 💻📱</h2>
+
 <p align="center">
- <img src="#" width="90%" alt="Happy Landing Page">
+   <img src="#" width="90%" alt="Happy Landing Page"/>
 </p>
 
 ---
 
-<h2>Tecnologias ⚡️</h2>
-- [HTML](https://html.com/)
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [JavaScript](https://www.javascript.com/)
+<h2>Tecnologias 🚀</h2>
+
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
-- [Handlebars](https://handlebarsjs.com/)
 - [SQLite](https://www.sqlite.org/index.html)
+- [Handlebars](https://handlebarsjs.com/)
+- [JavaScript](https://www.javascript.com/)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [HTML](https://html.com/)
 
 ---
 
@@ -51,7 +50,6 @@ Estou conseguindo ter uma noção muito melhor de Front-End e Back-End, além de
 ---
 
 <h2>Instalação 👨‍💻</h2>
-
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 
 - <b>[Git](https://git-scm.com)</b>
@@ -71,35 +69,32 @@ $ npm install express
 - Por fim, digite:
 $ npm start
 ```
+---
+
+<h2>Como contribuir 💪</h2>
+
+   ```
+   - Fork o projeto 
+
+   - Crie uma nova branch com sua feature:
+   $ git checkout -b my-feature
+
+   - Salve suas alterações e crie um commit contando suas mudanças:
+   $ git commit -m "feat: My new feature"
+
+   - Envie suas mudanças:
+   $ git push origin my-feature
+   ```
 
 ---
 
-<h2>Como contribuir 🤜🏻🤛🏻</h2>
-```
-- Fork esse repositório;
+<h2>Licença 📝</h2>
 
-- Crie uma branch com a sua feature: 
-$ git checkout -b my-feature
-
-- Commit suas mudanças: 
-$ git commit -m 'feat: My new feature'
-
-- Envie a sua branch: 
-$ git push origin my-feature
-```
-
-Depois que o merge da sua pull request for feito, você pode deletar a sua branch.
+<p align="center">
+   Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes. 😉
+</p>
 
 ---
 
-<h2>Licença 🧾</h2>
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes. 😉
-
----
-
-<h2>Créditos 🤝 </h2>
-
-[Rocketseat](https://rocketseat.com.br/)
-
-Desenvolvido com ❤ por Gabriel G. Pereira
+>Este projeto foi desenvolvido com o ❤️ por **[@Gabriel G. Pereira](https://www.linkedin.com/in/gabriel-gonçalves-pereira/)**, com o instrutor **[@MaykBrito](https://linkedin.com/in/maykbrito)**, durante a **[Next Level Week](https://rocketseat.com.br/)** da **[Rocketseat](https://www.linkedin.com/school/rocketseat/about/)** 💜. <br> 
+   Se te ajudou, me dê uma ⭐! 😉 
