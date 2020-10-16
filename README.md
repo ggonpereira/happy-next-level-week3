@@ -66,6 +66,10 @@ $ cd happy-next-level-week3
 - Instale a dependência necessária:
 $ npm install express
 
+$ npm install nodemon
+
+$ npm install hbs
+
 - Por fim, digite:
 $ npm start
 ```
