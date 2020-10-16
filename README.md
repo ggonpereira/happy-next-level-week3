@@ -90,9 +90,7 @@ $ npm start
 
 <h2>Licença 📝</h2>
 
-<p align="center">
-   Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes. 😉
-</p>
+<p align="center">Esse projeto está sob as licenças MIT - leia o arquivo [LICENSE](LICENSE) para mais detalhes. 😉</p>
 
 ---
 
