@@ -25,7 +25,7 @@ O layout do site foi desenvolvido com muito carinho, contando com uma interface 
 <h2>Prévia 💻📱</h2>
 
 <p align="center">
-   <img src="#" width="90%" alt="Happy Landing Page"/>
+   <img src="https://github.com/ggonpereira/happy-next-level-week3/blob/main/demo/happy-landing.jpg" width="90%" alt="Happy Landing Page"/>
 </p>
 
 ---
