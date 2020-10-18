@@ -83,3 +83,15 @@ function toggleSelect(event) {
   const input = document.querySelector('[name="open_on_weekends"]');
   input.value = button.dataset.value;
 }
+
+/* function validate(event) {
+  // validate if lat & lng are populated
+
+  const verifyLatAndLng = false; // começa com false, se a pessoa preencher, vira true
+
+  if (verifyLatAndLng == false) {
+    event.preventDefault(); // will freeze the page
+  }
+
+  alert("Selecione um ponto no mapa.");
+} */

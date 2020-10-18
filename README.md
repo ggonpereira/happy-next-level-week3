@@ -56,6 +56,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 - <b>[Node.js](https://nodejs.org/en/)</b>
 
 ### E então:
+
 ```
 - Clone o repositório:
 $ git clone https://github.com/ggonpereira/happy-next-level-week3.git
@@ -70,25 +71,28 @@ $ npm install nodemon
 
 $ npm install hbs
 
+$ npm install sqlite-async
+
 - Por fim, digite:
 $ npm start
 ```
+
 ---
 
 <h2>Como contribuir 💪</h2>
 
-   ```
-   - Fork o projeto 
+```
+- Fork o projeto
 
-   - Crie uma nova branch com sua feature:
-   $ git checkout -b my-feature
+- Crie uma nova branch com sua feature:
+$ git checkout -b my-feature
 
-   - Salve suas alterações e crie um commit contando suas mudanças:
-   $ git commit -m "feat: My new feature"
+- Salve suas alterações e crie um commit contando suas mudanças:
+$ git commit -m "feat: My new feature"
 
-   - Envie suas mudanças:
-   $ git push origin my-feature
-   ```
+- Envie suas mudanças:
+$ git push origin my-feature
+```
 
 ---
 
@@ -98,5 +102,5 @@ $ npm start
 
 ---
 
->Este projeto foi desenvolvido com o ❤️ por **[@Gabriel G. Pereira](https://www.linkedin.com/in/gabriel-gonçalves-pereira/)**, com o instrutor **[@MaykBrito](https://linkedin.com/in/maykbrito)**, durante a **[Next Level Week](https://rocketseat.com.br/)** da **[Rocketseat](https://www.linkedin.com/school/rocketseat/about/)** 💜. <br> 
-   Se te ajudou, me dê uma ⭐! 😉 
+> Este projeto foi desenvolvido com o ❤️ por **[@Gabriel G. Pereira](https://www.linkedin.com/in/gabriel-gonçalves-pereira/)**, com o instrutor **[@MaykBrito](https://linkedin.com/in/maykbrito)**, durante a **[Next Level Week](https://rocketseat.com.br/)** da **[Rocketseat](https://www.linkedin.com/school/rocketseat/about/)** 💜. <br>
+> Se te ajudou, me dê uma ⭐! 😉
